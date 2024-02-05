@@ -4,9 +4,9 @@
 
 HIDROMATICO 1.0
 
-Author: Diego Maroto - BilbaoMakers 2019 - info@bilbaomakers.org - dmarofer@diegomaroto.net
+Author: Diego Maroto - BilbaoMakers Febrero 2024 - info@bilbaomakers.org - dmarofer@diegomaroto.net
 
-https://github.com/bilbaomakers/ESP32MQTTBASE
+https://github.com/dmarofer/HIDROMATICO
 
 https://bilbaomakers.org/
 
@@ -17,7 +17,6 @@ Licencia: GNU General Public License v3.0 ( mas info en GitHub )
 #pragma endregion
 
 #pragma region INCLUDES
-// Librerias comantadas en proceso de sustitucion por la WiFiMQTTManager
 
 #include <ConfigCom.h>					// Para la gestion de la configuracion de las comunicaciones.
 #include <Hidromatico.h>				// Clase de Mi Proyecto
